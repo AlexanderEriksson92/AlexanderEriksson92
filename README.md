@@ -1,6 +1,6 @@
 # Alexander Eriksson
 
-Jag är Alexander Eriksson, en nyexaminerad **Fullstack-utvecklare** med en stark grund inom webbutveckling. Mitt examensarbete fokuserade på **SEO och UX/UI**, vilket har gett mig värdefull insikt i att skapa både användarvänliga och synliga webbplatser.
+Jag är Alexander Eriksson, en nyexaminerad **Fullstack-utvecklare**. Mitt examensarbete fokuserade på **SEO och UX/UI**, vilket har gett mig värdefull insikt i att skapa både användarvänliga och synliga webbplatser.
 
 Under min praktik utvecklade och optimera jag dessa webbplatser:
 * [https://www.marketingautomation.nu/](https://www.marketingautomation.nu/)
